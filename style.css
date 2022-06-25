@@ -5,6 +5,10 @@
     padding: 20px 10px;
 }
 
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+
 .header a {
   float: left;
   color: black;
