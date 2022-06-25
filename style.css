@@ -19,9 +19,14 @@
   padding: 12px;
   text-decoration: none;
   font-size: 100px;
-  line-height: 25px;
+  line-height: 100px;
   border-radius: 4px;
    display: block;
+}
+
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
 }
 
 .header a:hover {
