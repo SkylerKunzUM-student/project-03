@@ -16,7 +16,12 @@
     margin-top: 0%;
 }
 
-
+.main-nav ul li { 
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 40px;
+}
 
 .main-nav ul li a {
     text-decoration: none;
