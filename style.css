@@ -34,11 +34,11 @@
     text-align: center;
 }
 
-.main-nav ul li a.active{
+.main-nav ul li a:active{
     background-color: blueviolet;
 }
 
-.main-nav ul li a.hover{
+.main-nav ul li a:hover {
     background: gray;
     border-radius: 4px;
 }
