@@ -16,6 +16,13 @@
 }
 
 .main-nav ul li {
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+
+.main-nav ul li {
     text-decoration: none;
     color: black;
     font-size: 30px;
