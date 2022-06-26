@@ -19,7 +19,7 @@
 .main-nav ul li { 
     list-style: none;
     display: inline-block;
-    margin: 0 8px;
+    margin-top: 8;
     line-height: 80px;
 }
 
