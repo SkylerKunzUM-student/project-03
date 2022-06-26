@@ -1,3 +1,9 @@
 header {
     background-image: url("../image/logo.jpg");
 }
+
+.nav {
+    display: inline-block;
+    padding: auto;
+    margin: auto;
+}
