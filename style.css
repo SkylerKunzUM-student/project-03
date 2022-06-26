@@ -1,2 +1,4 @@
 .main-header {
-    background-image: ulr("image/header.jpg")
+    background-image: ulr("image/header.jpg");
+    background-size: cover;
+}
