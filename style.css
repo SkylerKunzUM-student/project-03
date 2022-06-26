@@ -21,7 +21,7 @@
 }
 
 .options a:hover {
-    background-color: #ddd;
+    background-color: gray;
     color: black;
 }
 
@@ -37,4 +37,5 @@
 
 .homepage {
     font-size: 18px;
-    
+    padding: 25px;
+}
