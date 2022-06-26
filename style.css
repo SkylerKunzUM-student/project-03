@@ -1,6 +1,11 @@
+* {
+    box-sizing: border-box;
+    font family: georgia;
+}
 html, body {
     margin: 0px;
     padding: 0;
+}
 
 .main-header {
     background-image: ulr("image/header.jpg");
@@ -10,3 +15,14 @@ html, body {
 
 .nav ul {
     margin: 0;
+}
+    
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    padding: .5em;
+    color: black;
+    text-decoration: none;
+}
