@@ -13,6 +13,7 @@
 .main-nav ul {
     float: right;
     margin-right: 20px;
+    margin-top: 40px;
 }
 
 .main-nav ul li { 
@@ -32,3 +33,5 @@
     font-size: medium;
     text-align: center;
 }
+
+.main-nav ul li a.active
