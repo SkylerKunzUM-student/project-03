@@ -17,8 +17,8 @@
 
 .main-nav ul li {
     list-style: none;
-    margin: 0 8px;
     display: inline-block;
+    margin: 0 8px;
     line-height: 80px;
 }
 
