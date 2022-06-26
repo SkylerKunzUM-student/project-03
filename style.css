@@ -39,5 +39,6 @@
 }
 
 .main-nav ul li a.hover{
-    background-color: gray;
+    background: gray;
+    border-radius: 4px;
 }
