@@ -1,7 +1,7 @@
-header {
-    background-image: url("../image/logo.jpg")
+.main-header {
+    background-image: url("..image/logo.jpg");
 }
 
-.nav {
+.main-nav {
     display: inline-block;
 }
