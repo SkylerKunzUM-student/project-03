@@ -3,6 +3,7 @@
     position: fixed;
     background-color: gray;
     padding: 10px;
+    text-align: right;
 }
 
 .logo {
@@ -11,7 +12,6 @@
 }
 
 .options {
-    text-align: right;
     display: inline-block;
     margin: 200px;
     color: black;
@@ -20,6 +20,8 @@
     font-size: 35px;
     line-height: 35px;
     border-radius: 4px;
+    position: fixed;
+    
 }
 
 .options a.active {
