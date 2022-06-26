@@ -9,8 +9,10 @@ html, body {
 }
 
 .main-header {
-    background: ulr("image/header.jpg");
+    background-image: ulr("image/header.jpg");
+    baclground-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     padding-bottem: 10px;
 }
 
