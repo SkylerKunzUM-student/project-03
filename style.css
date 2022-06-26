@@ -12,8 +12,9 @@
 
 .options {
     
-    float: center;
-    margin: 0 0;
+    display: inline-block;
+    float: right;
+    margin: 200px;
     color: black;
     text-align: center;
     padding: 12px;
@@ -21,7 +22,6 @@
     font-size: 35px;
     line-height: 35px;
     border-radius: 4px;
-    display: inline-block;
 }
 
 .options a.active {
@@ -38,4 +38,5 @@
     background-color: white;
     padding: 10px;
     text-align: center;
+}
     
