@@ -1,4 +1,11 @@
+html, body {
+    margin: 0px;
+    padding: 0;
+
 .main-header {
     background-image: ulr("image/header.jpg");
     background-size: cover;
+    padding-bottem: 10px;
 }
+
+ul
