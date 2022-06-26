@@ -16,16 +16,26 @@ html, body {
     padding-bottem: 10px;
 }
 
+.main nav {
+    text-align: center;
+    font-size: 1.1em;
+    border-bottem: 1px solid white;
+
 .nav ul {
     margin: 0;
 }
     
 .nav li {
-    display: inline-block;
+    display: inline;
 }
 
 .nav a {
+    display: inline-block;
     padding: .5em;
     color: black;
     text-decoration: none;
+}
+
+.nav a:hover  {
+    background-color: gray;
 }
