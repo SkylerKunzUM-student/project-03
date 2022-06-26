@@ -10,8 +10,10 @@
     font-weight: bold;
 }
 
-.options a {
+.options {
+    
     float: center;
+    margin: 0 0;
     color: black;
     text-align: center;
     padding: 12px;
@@ -19,7 +21,7 @@
     font-size: 35px;
     line-height: 35px;
     border-radius: 4px;
-    display: block;
+    display: inline-block;
 }
 
 .options a.active {
