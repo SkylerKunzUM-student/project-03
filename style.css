@@ -40,6 +40,6 @@
 }
 
 .main-nav ul li a:hover {
-    background: gray;
+    background-color: gray;
     border-radius: 4px;
 }
