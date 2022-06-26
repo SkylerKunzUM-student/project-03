@@ -15,8 +15,10 @@ html, body {
     background-position: center;
     padding-bottem: 10px;
 }
-
-.main nav {
+.main-nav li {
+    padding: 0 5%;
+}
+.main-nav {
     text-align: center;
     font-size: 1.1em;
     border-bottem: 1px solid white;
