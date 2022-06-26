@@ -22,7 +22,7 @@
     line-height: 80px;
 }
 
-.main-nav ul li {
+.main-nav ul li a {
     text-decoration: none;
     color: black;
     font-size: 30px;
