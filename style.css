@@ -1,8 +1,11 @@
-.main-header {
-    background-image: url("..image/logo.jpg");
+.main-nav {
+    height: 80px;
+    width: 100%;
+    background: lavender;
+
 }
 
-.main-nav {
-    display: inline-block;
-    float: center;
+.logo {
+    height: 80;
+    width: auto;
 }
