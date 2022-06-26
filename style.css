@@ -1,8 +1,10 @@
 
-.header {
-    background-image: url(image/header.jpg);
+.logo {
+    height: 10%;;
     margin-top: 0%;
+    padding: 0%;
     max-width: max-content;
+    position: relative;
 }
 
 * {
