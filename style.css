@@ -4,6 +4,8 @@
     background-color: lavender;
     padding: 10px;
     text-align: right;
+    height: 200px;
+    width:100%;
 }
 
 .options {
