@@ -37,10 +37,11 @@
 
 .main-nav ul li a:active{
     background-color: blueviolet;
+    border-radius: 4px;
 }
 
 .main-nav ul li a:hover {
     background-color: gray;
-    border: 1px bold;
     border-radius: 4px;
 }
+
