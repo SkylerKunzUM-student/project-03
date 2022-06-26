@@ -1,8 +1,6 @@
 .header {
-    position: fixed;
     top: 0px;
     position: fixed;
-    overflow: hidden;
     background-color: gray;
     padding: 10px;
 }
@@ -12,7 +10,7 @@
     font-weight: bold;
 }
 
-.header a {
+.options a {
     float: center;
     color: black;
     text-align: center;
@@ -24,18 +22,14 @@
     display: block;
 }
 
-.header a.active {
+.options a.active {
     background-color: dodgerblue;
     color: white;
 }
 
-.header a:hover {
+.options a:hover {
     background-color: #ddd;
     color: black;
-}
-
-.options {
-    float: center;
 }
 
 .info {
